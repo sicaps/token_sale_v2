@@ -1,5 +1,5 @@
 #[starknet::contract]
-mod TokenSale {
+pub mod TokenSale {
     use openzeppelin::upgrades::upgradeable::UpgradeableComponent;
     use starknet::storage::{
         Map, StoragePathEntry, StoragePointerReadAccess, StoragePointerWriteAccess,
