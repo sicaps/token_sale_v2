@@ -3,3 +3,6 @@ target
 snfoundry_trace/
 coverage/
 profile/
+test_contracts_back.cairo
+test_tokensale.cairo
+test_contracts.cairo
